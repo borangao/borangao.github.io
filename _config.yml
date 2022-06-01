@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Boran Gao"
   avatar           : "Photo.png"
-  bio              : "Ph.D in Biostatistics\nUniveristy of Michigan"
+  bio              : "Ph.D in Biostatistics"
   location         : "Ann Arbor, Michigan"
-  employer         :
+  employer         : "Univeristy of Michigan"
   email            :  "borang@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
