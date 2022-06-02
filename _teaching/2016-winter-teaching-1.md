@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate level"
 permalink: /teaching/2016-winter-teaching-1
 venue: "University of Michigan, Department of Epidemiology"
-date: 2014-01-01
+date: 2016-01-01
 location: "City, Country"
 ---
 
