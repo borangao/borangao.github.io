@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Boran Gao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Boran Gao"
 description              : &description "personal description"
 url                      : https://borangao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Boran Gao"
   avatar           : "Photo.png"
-  bio              : "Ph.D in Biostatistics"
+  bio              : "Ph.D in Biostatistics/nUniveristy of Michigan"
   location         : "Ann Arbor, Michigan"
-  employer         : "Univeristy of Michigan"
+  employer         : 
   email            :  "borang@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
