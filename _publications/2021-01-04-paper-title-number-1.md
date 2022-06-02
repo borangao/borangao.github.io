@@ -1,6 +1,5 @@
 ---
 title: "Accurate genetic and environmental covariance estimation with composite likelihood in genome-wide association studies"
-collection: publications
 permalink: /publication/2021-01-04-paper-title-number-1
 date: 2021-01-04
 ---
