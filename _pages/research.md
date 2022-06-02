@@ -1,11 +1,10 @@
 ---
-title: "Research"
+title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
-## Research Projects
 
 ### meSuSie
 The project is on going. We developed a statistical tool for multiple ancestry fine-mapping. The software can be found [here](https://github.com/borangao/meSuSie). We also provided detailed illustration example [here](https://borangao.github.io/meSuSie_Analysis/), and a web application [here](https://borangao.shinyapps.io/meSuSie/)
