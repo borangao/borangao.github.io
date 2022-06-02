@@ -5,11 +5,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-## About
-Hi! I’m Boran Gao, a Ph.D candidate in University of Michigan, Ann Arbor in the [Department of Biostatistics](https://sph.umich.edu/biostat/phd-student-profiles/gao-boran.html). I have a broad interest in statistical genetics and genomics including, GWAS, heritability/genetic correlation estimation, mendelian randomization, and fine-mapping, integrating GWAS and spatial transcriptomics.
+## Research Projects
 
-## My work and research
-I work in the field of statistical genetics, mainly developing statistical tools for GWAS studies. I have experience in developing models for genetic correlation estimation, mendelian randomization and fine-mapping across ancestries. For the detailed research description and tools developed, please [visit](https://borangao.github.io/publications/).
+### meSuSie
+The project is on going. We developed a statistical tool for multiple ancestry fine-mapping. The software can be found [here](https://github.com/borangao/meSuSie). We also provided detailed illustration example [here](https://borangao.github.io/meSuSie_Analysis/), and a web application [here](https://borangao.shinyapps.io/meSuSie/)
 
-## My background and history
-I received my M.S. in Biostatistics from the [University of Michigan, School of Public Health](https://sph.umich.edu/), my MPH in Epidemiology from the [University of Michigan, School of Public Health](https://sph.umich.edu/), and my MBBS in [Soochow University](https://www.suda.edu.cn/). 
+### GECKO
+GECKO is a software for genetic correlation estimation. The work was published in PLOS GENETICS titled "Accurate genetic and environmental covariance estimation with composite likelihood in genome-wide association studies". GECKO can be download [here](https://github.com/borangao/GECKO) with detailed example and descriptions.
+[Download paper here](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009293)
+
