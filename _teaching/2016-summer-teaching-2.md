@@ -1,6 +1,7 @@
 ---
 title: "Statistical Methods for Epidemiology"
 collection: teaching
+type: "MS level"
 permalink: /teaching/2016-summer-teaching-2
 venue: "University of Michigan, Department of Biostatistics"
 date: 2016-09-01
