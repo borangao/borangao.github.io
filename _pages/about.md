@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Boran Gao, a Ph.D candidate in University of Michigan, Ann Arbor in the [Department of Biostatistics](https://sph.umich.edu/biostat/phd-student-profiles/gao-boran.html). I have a broad interest in statistical genetics and genomics including, GWAS, heritability/genetic correlation estimation, mendelian randomization, and fine-mapping, integrating GWAS and spatial transcriptomics.
+Hi! I’m Boran Gao, a Ph.D candidate in University of Michigan, Ann Arbor in the [Department of Biostatistics](https://sph.umich.edu/biostat/phd-student-profiles/gao-boran.html). I am under the supervision of [Xiang Zhou](https://www.xzlab.org/). I have a broad interest in statistical genetics and genomics including, GWAS, heritability/genetic correlation estimation, mendelian randomization, and fine-mapping, integrating GWAS and spatial transcriptomics.
 
 ## My work and research
 I work in the field of statistical genetics, mainly developing statistical tools for GWAS studies. I have experience in developing models for genetic correlation estimation, mendelian randomization and fine-mapping across ancestries. For the detailed research description and tools developed, please [visit](https://borangao.github.io/research/).
