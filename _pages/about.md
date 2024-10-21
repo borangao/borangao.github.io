@@ -26,17 +26,12 @@ Applications are invited for postdoctoral fellow positions in my research group.
 
 ## Selected Awards
 
-- **Rackham One-Term Dissertation Fellowship**, University of Michigan  
-  *2023*
+- **Rackham One-Term Dissertation Fellowship**, University of Michigan  2023
 
-- **Excellence in Research Award**, Department of Biostatistics, University of Michigan  
-  *2023*
+- **Excellence in Research Award**, Department of Biostatistics, University of Michigan  2023
 
-- **Charles J. Epstein Trainee Award**, Predoctoral Semifinalist, ASHG  
-  *2022*
+- **Charles J. Epstein Trainee Award**, Predoctoral Semifinalist, ASHG 2022
 
-- **Rackham Travel Award**, University of Michigan  
-  *2022*
+- **Rackham Travel Award**, University of Michigan  2022
 
-- **Outstanding GSI**, Department of Biostatistics, University of Michigan  
-  *2017*
+- **Outstanding GSI**, Department of Biostatistics, University of Michigan  2017
