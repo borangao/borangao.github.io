@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Research Projects
 
 ### MESuSIE
 MESuSIE is a software for multi-ancestry fine-mapping. This work is in Press in Nature Genetics titled "MESuSiE enables scalable and powerful multi-ancestry
@@ -14,3 +15,8 @@ fine-mapping of causal variants in genome-wide association studies". The softwar
 GECKO is a software for genetic correlation estimation. The work was published in PLOS GENETICS titled "Accurate genetic and environmental covariance estimation with composite likelihood in genome-wide association studies". GECKO can be download [here](https://github.com/borangao/GECKO) with detailed example and descriptions.
 [Download paper here](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009293)
 
+## Collaborative Projects
+
+### OMR
+
+### PWAS
