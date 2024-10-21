@@ -18,5 +18,7 @@ GECKO is a software for genetic correlation estimation. The work was published i
 ## Collaborative Projects
 
 ### OMR
+Mendelian randomization under the omnigenic architecture[Download paper here](https://academic.oup.com/bib/article/22/6/bbab322/6347949)
 
 ### PWAS
+Proteome-wide association studies for blood lipids and comparison with transcriptome-wide association studies. [Download paper here](https://pmc.ncbi.nlm.nih.gov/articles/PMC10473643/pdf/nihpp-2023.08.17.553749v1.pdf)
