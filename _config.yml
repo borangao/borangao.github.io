@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Boran Gao"
   avatar           : "headshot.jpg"
-  bio              : "Ph.D in Biostatistics"
-  location         : "Univeristy of Michigan, Ann Arbor"
+  bio              : "Assistant Professor"
+  location         : "Purdue University"
   employer         : 
-  email            :  "borang@umich.edu"
+  email            :  "gao824@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
