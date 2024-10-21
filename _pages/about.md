@@ -21,3 +21,5 @@ I work in the field of statistical genetics, mainly developing statistical tools
 ## My background and history
 I received my M.S. in Biostatistics from the [University of Michigan, School of Public Health](https://sph.umich.edu/), my MPH in Epidemiology from the [University of Michigan, School of Public Health](https://sph.umich.edu/), and my MBBS in [Soochow University](https://www.suda.edu.cn/). 
 
+## Open Positions:
+Applications are invited for postdoctoral fellow positions in my research group. The successful candidates will be working on various research topics in developing statistical methods and computational tools for genetics and genomics data. The candidate should hold a Ph.D. in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. Please send me a CV, a short statement of research interests, and contact information of three referees to: Boran Gao gao824@purdue.edu. Review of applications will begin immediately and continue until the position is filled.
