@@ -18,11 +18,8 @@ In particular, the methodological aspects of my past and current work center on 
 
 I work in the field of statistical genetics, mainly developing statistical tools for GWAS studies. I have experience in developing models for genetic correlation estimation, mendelian randomization, colocalization and fine-mapping. For the detailed research description and tools developed, please [visit](https://borangao.github.io/research/).
 
-## My background and history
+## My background 
 I received my M.S. in Biostatistics from the [University of Michigan, School of Public Health](https://sph.umich.edu/), my MPH in Epidemiology from the [University of Michigan, School of Public Health](https://sph.umich.edu/), and my MBBS in [Soochow University](https://www.suda.edu.cn/). 
-
-## Open Positions:
-Applications are invited for postdoctoral fellow positions in my research group. The successful candidates will be working on various research topics in developing statistical methods and computational tools for genetics and genomics data. The candidate should hold a Ph.D. in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. Please send me a CV, a short statement of research interests, and contact information of three referees to: Boran Gao gao824@purdue.edu. Review of applications will begin immediately and continue until the position is filled.
 
 ## Selected Awards
 
@@ -35,3 +32,7 @@ Applications are invited for postdoctoral fellow positions in my research group.
 - **Rackham Travel Award**, University of Michigan  2022
 
 - **Outstanding GSI**, Department of Biostatistics, University of Michigan  2017
+
+## Open Positions:
+Applications are invited for postdoctoral fellow positions in my research group. The successful candidates will be working on various research topics in developing statistical methods and computational tools for genetics and genomics data. The candidate should hold a Ph.D. in biostatistics, statistics, computer science, bioinformatics, computational biology, mathematics, or related quantitative discipline. Please send me a CV, a short statement of research interests, and contact information of three referees to: Boran Gao gao824@purdue.edu. Review of applications will begin immediately and continue until the position is filled.
+
